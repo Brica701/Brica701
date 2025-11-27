@@ -44,6 +44,3 @@
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brica701&show_icons=true&theme=tokyonight)
